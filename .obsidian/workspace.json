@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "35249f3c68aede60",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dcf0424ddf51b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2656a2fedb329537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Fundamental Research Issues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Fundamental Research Issues"
+            }
+          },
+          {
+            "id": "4038c239eae01706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Measurement_ Reliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Measurement_ Reliability"
+            }
+          },
+          {
+            "id": "9aace4a472e72682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Measurement_ Validity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Measurement_ Validity"
+            }
+          },
+          {
+            "id": "00f0c4375db66045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Observational Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Observational Methods"
+            }
+          },
+          {
+            "id": "a794d0f7f7fb9244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Survey Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Survey Research"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37c4ffed792601d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb2eb4e755aa3b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16568395b0c49cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e68480a7eb00abba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "basic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8d20c2945fac373a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94dce55590e7bc27",
+    "type": "split",
+    "children": [
+      {
+        "id": "264ff5b008b047b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76561748819ef6e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9. Survey Research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "9. Survey Research 的反向链接列表"
+            }
+          },
+          {
+            "id": "356d032ff5348fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9. Survey Research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "9. Survey Research 的出链列表"
+            }
+          },
+          {
+            "id": "c4be32792ba2e204",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a0befa26c7bc7586",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9. Survey Research.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "9. Survey Research 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a794d0f7f7fb9244",
+  "lastOpenFiles": [
+    "8. Observational Methods.md",
+    "7. Measurement_ Validity.md",
+    "6. Measurement_ Reliability.md",
+    "5. Fundamental Research Issues.md",
+    "4. APA 7 Format.md",
+    "3. Ethical Research.md",
+    "2. How to start.md",
+    "1. Scientific understanding.md",
+    "9. Survey Research.md"
+  ]
+}
